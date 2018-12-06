@@ -1,0 +1,15 @@
+#container{
+    text-align: center;
+display: flex;
+flex-direction: row;
+flex-basis: 50%;
+justify-content: space-around;
+align-items: flex-start;
+}
+section{
+    
+    margin: 2%;
+    border-width: .1em;
+    border-style: solid;
+    border-color: red
+}
